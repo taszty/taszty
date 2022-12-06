@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/taszty/taszty/ghPFP.png)
+![](https://github.com/taszty/taszty/blob/main/ghPFP.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taszty&count_private=true&theme=merko&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
