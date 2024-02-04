@@ -1,5 +1,5 @@
 I have a B.S. in Computer Science and am passionater about creating things that impact people.<br>
-My Certifications:
+My certifications:
 
 I have worked with multiple languages, some including:
 
