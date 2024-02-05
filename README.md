@@ -1,4 +1,4 @@
-I have a B.S. in Computer Science and am passionater about creating things that impact people.<br>
+I have a B.S. in Computer Science and am passionate about creating things that impact people.<br>
 My certifications:
 
 I have worked with multiple languages, some including:
