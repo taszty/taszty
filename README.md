@@ -1,7 +1,7 @@
 I have a B.S. in Computer Science and am passionate about creating things that impact people.<br>
 My certifications:
 
-![ITF+](https://images.credly.com/size/110x110/images/40d75658-d28b-4a28-8bff-bea3ab502778/ITF_2B_Logo_Certified.png)
+![ITF+](https://images.credly.com/size/110x110/images/40d75658-d28b-4a28-8bff-bea3ab502778/ITF_2B_Logo_Certified.png) ![GoogleCybersecurity](https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
 
 I have worked with multiple languages, some including:
 
