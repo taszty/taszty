@@ -7,4 +7,4 @@ I have worked with multiple languages, some including:
 
 If you would like to reach out please do <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dyl.nel.biz@gmail.com" >here<a/> target="_blank"
 
-If you would like to reach out please do [here](https://mail.google.com/mail/?view=cm&fs=1&to=dyl.nel.biz@gmail.com)
+If you would like to reach out please do [here](https://mail.google.com/mail/?view=cm&fs=1&to=dyl.nel.biz@gmail.com){:target="_blank"}
